@@ -1,0 +1,54 @@
+{
+  "position": {
+    "mode": "center",
+    "x": null,
+    "y": 8
+  },
+  "appearance": {
+    "blur": true,
+    "fill_opacity": 0.82,
+    "accent_from_art": true
+  },
+  "update": {
+    "auto": true,
+    "url": ""
+  },
+  "quick_apps": [
+    {
+      "label": "Spotify",
+      "icon": "\ud83c\udfb5",
+      "type": "uri",
+      "target": "spotify:"
+    },
+    {
+      "label": "Camera",
+      "icon": "\ud83d\udcf7",
+      "type": "uri",
+      "target": "microsoft.windows.camera:"
+    },
+    {
+      "label": "Clock",
+      "icon": "\u23f0",
+      "type": "uri",
+      "target": "ms-clock:"
+    },
+    {
+      "label": "Calc",
+      "icon": "\ud83e\uddee",
+      "type": "exe",
+      "target": "calc"
+    },
+    {
+      "label": "Settings",
+      "icon": "\u2699",
+      "type": "uri",
+      "target": "ms-settings:"
+    },
+    {
+      "label": "Notes",
+      "icon": "\ud83d\udcdd",
+      "type": "notes",
+      "target": ""
+    }
+  ]
+}
